@@ -1,6 +1,6 @@
 ### Hey! 👋 I'm David 🤸‍♂️  
 #### I'm studying computer science at the University of Waterloo 🏫. 
-I currently work at Research in Flows 🌊, which works on cross-correlation fluid flow measurement in industrial applications 🏭. I work on the research 🧑‍🔬, architecture 📐, and development 🧑‍💻 of the data acquisition 💾 and processing 📈 pipeline.
+I currently work at Research in Flows 🌊, which works on turbulent flow analysis in industrial applications 🏭. I work on the research 🧑‍🔬, architecture 📐, and development 🧑‍💻 of the data acquisition 💾 and processing 📈 pipeline.
 
 In the summer of 2019, I worked as a research assistant at York University in the department of mathematics and statistics 🧮, where I researched and implemented an [agent based model](https://github.com/davidgur/AgentBasedModel) 📉 of the spread of infectious diseases 🦠 (specifically, measles) in Ontario secondary schools.
 
