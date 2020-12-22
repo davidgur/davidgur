@@ -1,10 +1,11 @@
-### Hey! 👋 I'm David 🤸‍♂️  
-#### I'm studying computer science at the University of Waterloo 🏫. 
-I currently work at Research in Flows 🌊, which works on turbulent flow analysis in industrial applications 🏭. I work on the research 🧑‍🔬, architecture 📐, and development 🧑‍💻 of the data acquisition 💾 and processing 📈 pipeline.
+### Hey! 👋 I'm David 
+#### I'm studying computer science at the University of Waterloo. 
 
-In the summer of 2019, I worked as a research assistant at York University in the department of mathematics and statistics 🧮, where I researched and implemented an [agent based model](https://github.com/davidgur/AgentBasedModel) 📉 of the spread of infectious diseases 🦠 (specifically, measles) in Ontario secondary schools.
+My most recent position was at Research in Flows, where I worked on the research, architecture, and development of their data acquisition and signal processing pipeline. We used this system to perform turbulent flow analysis for industrial applications.
 
-I'm most comfortable in Python 🐍  and C++ 🤖, and have experience writing production code in both. Beyond that, I've dabbled in many different languages including MATLAB 📊 and Go 🐹. You'll be able to find more information on my [resume](https://github.com/davidgur/resume/raw/master/resume.pdf) 📝.
+In the summer of 2019, I worked as a research assistant at York University in the department of mathematics and statistics, where I researched and implemented an [agent based model](https://github.com/davidgur/AgentBasedModel) of the spread of infectious diseases (specifically, measles) in Ontario secondary schools.
+
+I'm most comfortable in Python and C++, and have experience writing production code in both. Beyond that, I've dabbled in many different languages including MATLAB and Go. You'll be able to find more information on my [resume](https://github.com/davidgur/resume/raw/master/resume.pdf) 📝.
 
 <!--
 - 🔭 I’m currently working on ...
