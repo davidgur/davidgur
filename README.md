@@ -1,11 +1,17 @@
 ### Hey! 👋 I'm David 
 #### I'm studying computer science at the University of Waterloo. 
 
-My most recent position was at Research in Flows, where I worked on the research, architecture, and development of their data acquisition and signal processing pipeline. We used this system to perform turbulent flow analysis for industrial applications.
+My most recent position was at Applied Mind where I worked on their software-defined radio solution.
+Specifically, I developed embedded signal acquisition software for the acquisition and processing of LTE signals at over 50 MHz on their in-house hardware.
+I also worked on some drivers for other hardware, like jitter attenuators. 
+Most of the work was done in Rust and C.
 
 In the summer of 2019, I worked as a research assistant at York University in the department of mathematics and statistics, where I researched and implemented an [agent based model](https://github.com/davidgur/AgentBasedModel) of the spread of infectious diseases (specifically, measles) in Ontario secondary schools.
 
-I'm most comfortable in Python and C++, and have experience writing production code in both. Beyond that, I've dabbled in many different languages including MATLAB and Go. You'll be able to find more information on my [resume](https://github.com/davidgur/resume/raw/master/resume.pdf) 📝.
+In my free time, I like to mess around with my stock portfolio, and experiment with different portfolio optimization algorithms. 
+Sid Meier's Civilization VI is also fun.
+
+I'm most comfortable in Python and C++, and have experience writing production code in both. Beyond that, I've worked in many different languages including MATLAB and Rust. You'll be able to find more information on my [resume](https://github.com/davidgur/resume/raw/master/resume.pdf) 📝.
 
 <!--
 - 🔭 I’m currently working on ...
