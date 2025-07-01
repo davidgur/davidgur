@@ -1,7 +1,5 @@
 ### Hey! 👋 I'm David 
-#### I'm studying computer science and applied mathematics at the University of Waterloo. 
-
-I have gained experience in many aspects of signal processing and embedded computation, from implementing software-defined radios on embedded platforms, to designing optimal algorithms for signal emitter localization. Through my work experience, I have demonstrated proficiency in programming languages such as Python, C++, and Rust, as well as mathematical libraries like NumPy and SciPy, which have allowed me to efficiently process and analyze data in these projects.
+#### I'm a product engineer at Radar, and a recent computer science and mathematics grad from the University of Waterloo
 
 You can check out my resume [here](https://github.com/davidgur/resume/raw/master/resume.pdf).
 
